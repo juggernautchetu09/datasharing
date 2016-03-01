@@ -188,3 +188,7 @@ Contributors
 * [Nick Reich](http://people.umass.edu/nick/) - Added tips on storing data as text.
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/juggernautchetu09/datasharing/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
